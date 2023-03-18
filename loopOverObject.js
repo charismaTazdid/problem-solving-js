@@ -11,7 +11,7 @@ const values = Object.values(song)
 
 // trying to get result "name = value" format
 for (i = 0; i < values.length; i++) {
-    // console.log(keys[i] + " = " + values[i])
+    console.log(keys[i] + " = " + values[i])
 }
 
 // write a function to remove "N/A" from an object
