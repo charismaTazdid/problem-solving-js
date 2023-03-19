@@ -4,34 +4,39 @@
 
 #### leedcode profile link: https://leetcode.com/raihantajdid/
 
-### 1) Roman to Integer
+<ol>
+    <li>Roman to Integer </li>
+    <li>Valid Number</li>
+    <li> Rotated Digits  </li>
+    <li> Maximize Distance to Closest Person </li>
+    <li> Object cleaning json (cleaning.js) </li>
+    <li>  Find Contact Number (findContact.js) </li>
+    <li>  longestValidParentheses (32 no problem Leetcode) </li>
+    <li> Median Tow Sorted Array (problem No 4 Leetcode) </li>
+    <li> Mul function </li>
+    <li>  Regx Matching (problem No: 10 Leetcode) </li>
+    <li> Reverse String (problem No: 344 Leetcode) </li>
+    <li>  Wildcard Matching (problem No: 44 Leetcode) </li>
+    <li> Sub String Concate (problem No: 30 Leetcode) </li>
+    <li> Loop Over Object and Delete key </li>
+    <li> Capitalizing strings </li>
+    <li> Play Random Song (implement using One Liner) </li>
+    <li> Remove Duplicates (implement using One Liner)  </li>
+    <li>  </li>
+    <li>  </li>
+    <li>  </li>
+    <li>  </li>
+    <li>  </li>
+    <li>  </li>
+    <li>  </li>
+    <li>  </li>
 
-### 2) Valid Number
+</ol>
 
-### 3) Rotated Digits
+</br>
+</br>
 
-### 4) Maximize Distance to Closest Person
+## Linkedin:
 
-### 5) Object cleaning json (cleaning.js)
-
-### 6) Find Contact Number (findContact.js)
-
-### 7) longestValidParentheses (32 no problem Leetcode)
-
-### 8) Median Tow Sorted Array (problem No 4 Leetcode)
-
-### 9) Mul function
-
-### 10) Regx Matching (problem No: 10 Leetcode)
-
-### 11) Reverse String (problem No: 344 Leetcode)
-
-### 12) Wildcard Matching (problem No: 44 Leetcode)
-
-### 13) Sub String Concate (problem No: 30 Leetcode)
-
-### 14) Loop Over Object Delete key
-
-### 15) Capitalizing strings
-
-### 16) Play Random Song (implement using One Liner)
+- **Raihan Tazdid** -
+  [Raihan Tazdid](https://www.linkedin.com/in/raihan-tazdid/)
