@@ -1,8 +1,5 @@
 /**
- * @param {string} s
- * @param {string} p
- * @return {boolean}
- //Wildcard Matching 
+Wildcard Matching 
  Problem Number 44 on leedCode.
  Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*' where:
 

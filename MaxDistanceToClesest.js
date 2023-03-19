@@ -1,7 +1,5 @@
-/**
- * @param {number[]} seats
- * @return {number}
- */
+// Probelm : https://leetcode.com/problems/maximize-distance-to-closest-person/
+
  var maxDistToClosest = module.exports = function(seats) {
 
     let maxLength = 0,

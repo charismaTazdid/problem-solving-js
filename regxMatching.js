@@ -1,5 +1,5 @@
 /**
- Problem Number 10 on leedCode (Hard Chtegory)
+ Problem Number: 10 on leedCode (Hard Chtegory)
 
  Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where:
 
