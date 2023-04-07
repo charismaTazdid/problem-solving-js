@@ -22,7 +22,7 @@
     <li> Capitalizing strings </li>
     <li> Play Random Song (implement using One Liner) </li>
     <li> Remove Duplicates (implement using One Liner)  </li>
-    <li>  </li>
+    <li> Three Sum Closest </li>
     <li>  </li>
     <li>  </li>
     <li>  </li>
